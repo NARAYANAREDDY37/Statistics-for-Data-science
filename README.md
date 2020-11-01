@@ -13,3 +13,5 @@
 - **Null Hypothesis** --> The null hypothesis is a general statement that states that there is no relationship between two phenomenons under consideration or that there is no association between two groups. 
 
 - **Alternative Hypothesis** --> An alternative hypothesis is a statement that describes that there is a relationship between two selected variables in a study.
+
+- **central limit theorem** --> The central limit theorem states that if you have a population with mean μ and standard deviation σ and take sufficiently large random samples from the population with replacement , then the distribution of the sample means will be approximately normally distributed.
