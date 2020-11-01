@@ -10,4 +10,6 @@
 
 - **covariance** --> covariance is the statistical measure of the degree to which the two variables are moving together 
 
-- **Null and alternative Hypothesis** --> 
+- **Null Hypothesis** --> The null hypothesis is a general statement that states that there is no relationship between two phenomenons under consideration or that there is no association between two groups. 
+
+- **Alternative Hypothesis** --> An alternative hypothesis is a statement that describes that there is a relationship between two selected variables in a study.
