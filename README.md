@@ -9,3 +9,5 @@
 - **standard deviation** --> Standard deviation is a measure of the amount of variation or dispersion of a set of values. A low standard deviation indicates that the values tend to be close to the mean of the set, while a high standard deviation indicates that the values are spread out over a wider range. It essentially measures the absolute variability of a random variable.
 
 - **covariance** --> covariance is the statistical measure of the degree to which the two variables are moving together 
+
+- **Null and alternative Hypothesis** --> 
