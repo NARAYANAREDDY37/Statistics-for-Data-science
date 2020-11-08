@@ -23,3 +23,6 @@
 - **Uniform Distribution** --> It has a single value which only occurs in a certain range while anything outside that range is just 0. It’s very much an “on or off” distribution. We can also think of it as an indication of a categorical variable with 2 categories: 0 or the value. Your categorical variable might have multiple values other than 0 but we can still visualize it in the same was as a piecewise function of multiple uniform distributions.
 
 - **Normal Distribution** --> It is commonly referred to as a Gaussian Distribution, is specifically defined by its mean and standard deviation. The mean value shifts the distribution spatially and the standard deviation controls the spread. The import distinction from other distributions (e.g poisson) is that the standard deviation is the same in all directions. Thus with a Gaussian distribution we know the average value of our dataset as well as the spread of the data i.e is it spread over a wide range or is it highly concentrated around a few values.
+
+- **Population parameters** --> 
+
